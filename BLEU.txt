@@ -1,0 +1,505 @@
+BLEU score
+Predicted headline
+True headline
+article
+-------------------------------------------------
+1.0
+Gold opens lower in Hong Kong
+Gold opens lower in Hong Kong
+Gold opened at US$451.75 an ounce on Monday in Hong Kong, down 70 U.S. cents an ounce from Friday's close of US$452.45.
+-------------------------------------------------
+1.0
+Dollar higher against yen in Tokyo
+Dollar higher against yen in Tokyo
+The U.S. dollar was trading at 105.65 yen on the Tokyo foreign exchange market at 9 a.m. (0000 GMT) Tuesday, up 0.23 yen from late Monday.
+-------------------------------------------------
+1.0
+Dow Jones close
+Dow Jones close
+The stock market closed.
+-------------------------------------------------
+1.0
+Italian soccer capsules
+Italian soccer capsules
+A brief summary of Serie A matches played Wednesday in the 11th round of the Italian league:
+-------------------------------------------------
+1.0
+Stocks lower at close in Tokyo
+Stocks lower at close in Tokyo
+The Nikkei Stock Average of 225 issues closed at 11,161.75 points on the Tokyo Stock Exchange Tuesday, down 65.82 points, or 0.59 percent, from Monday.
+-------------------------------------------------
+1.0
+Gold down
+Gold down
+Gold for current delivery closed at $427.30 per troy ounce Monday on the New York Mercantile Exchange, down from $428.50 late Friday.
+-------------------------------------------------
+1.0
+Gold closes higher in Hong Kong
+Gold closes higher in Hong Kong
+Gold closed at US$434.75 an ounce on Monday in Hong Kong, up US$5.00 an ounce from Friday's close of US$429.75.
+-------------------------------------------------
+1.0
+Asian stock markets close generally higher
+Asian stock markets close generally higher
+Asian stock markets closed generally higher Monday, but prices slipped in Tokyo on the back of the recent strength of the Japanese currency.
+-------------------------------------------------
+0.8333333333333334
+dollar higher against yen in Tokyo
+Dollar higher against yen in Tokyo
+The U.S. dollar was trading at 103.04 yen on the Tokyo foreign exchange market at 9 a.m. (0000 GMT) Tuesday, up 0.04 yen from late Monday.
+-------------------------------------------------
+0.7430381997858699
+Greece to sell stake in commercial bank
+Greece to sell final stake in largest bank
+The government will sell its last direct stake in the country's largest bank, the National Bank of Greece, the finance ministry said.
+-------------------------------------------------
+0.7430381997858699
+Ukraine ' s parliament rejects presidential election
+Ukraine's parliament declares presidential election invalid
+Ukraine's parliament on Saturday declared the country's disputed presidential election invalid, a legally ineffectual but symbolically potent move boosting opposition hopes for a revote.
+-------------------------------------------------
+0.6666666666666666
+Gold markets down
+Gold opens down
+Gold bullion opened Monday at a bid price of US$446.50 a troy ounce, down from US$446.70 late Friday.
+-------------------------------------------------
+0.6666666666666666
+Palestinians date for Arafat calling for new Cabinet elections
+Palestinians set date for elections for Arafat successor
+Palestinian officials pushed forward with plans for life without Yasser Arafat, setting Jan. 9 as the date for elections to replace their longtime leader, but for the first time since Arafat's death, internal Palestinian violence hit Gaza.
+-------------------------------------------------
+0.625
+Ukraine ' s presidential presidential election results declared
+Ukraine's parliament declares presidential election invalid
+Ukraine's parliament has declared the country's disputed presidential election invalid, a legally ineffectual but symbolically potent move boosting opposition hopes for a revote.
+-------------------------------------------------
+0.6
+Nestle to invest in Venezuela for US$000 million in Venezuela
+Nestle to invest over US$7 million in Venezuela next year
+Nestle SA, the world's biggest food and drink company, plans to invest US$7 million (euro5.43 million) in Venezuela next year, company representatives said Thursday.
+-------------------------------------------------
+0.5985403583811576
+U . S . to allow South Korea to ease its imports on WTO
+U.S. to press South Korea to lift ban on beef, oranges
+"The United States was expected to ask South Korea to lift a ban on American beef and oranges as the two countries on Wednesday began their first trade talks since U.S. President George W. Bush's re-election."
+-------------------------------------------------
+0.5926545765453743
+Hong Kong ' s husband to appeal for her wife
+Hong Kong's richest woman to appeal for husband's estate
+Hong Kong's richest woman, Nina Wang, has been granted an appeal to try to win her late husband's estate two years after a court said she had probably forged his will.
+-------------------------------------------------
+0.5643211499270759
+Ajax stays lead in Dutch league
+PSV Eindhoven extends lead in Dutch league
+"PSV Eindhoven extended its lead in the Dutch premier league to five points by beating Willem II Tilburg 1-0 Saturday on a first-half goal by Jan Vennegoor of Hesselink."
+-------------------------------------------------
+0.5429024508215757
+British government urges international leaders to tackle poverty , poor
+British treasury chief urges greater international efforts to tackle global poverty
+The British government on Wednesday urged greater international efforts to tackle global poverty and warned that without more money and political will, United Nations development goals would not be met.
+-------------------------------------------------
+0.5362560368285115
+Asashoryu upset at Kyushu sumo
+Hakuho upsets compatriot Asashoryu at Kyushu sumo
+Mongolian teenager Hakuho upset compatriot Asashoryu on Wednesday to hand the grand champion his first loss of the Kyushu Grand Sumo Tournament.
+-------------------------------------------------
+0.5338249352778719
+URGENT Trial of train bombing to begin in Madrid
+Trial of teenager in Madrid bombings to begin Nov. 16
+The first trial stemming from the Madrid train bombings is to begin Nov. 16, court officials said Thursday.
+-------------------------------------------------
+0.5185727544772025
+Report : Malaysian police arrest four men for smuggling ring
+Report: Malaysian police smash illegal soccer betting ring, four men arrested
+Malaysian police arrested four men for allegedly running an illegal soccer betting ring that raked in more than 150 million ringgit (US$39.4 million; euro29.74 million) over the past year, a news report said Tuesday.
+-------------------------------------------------
+0.5185727544772025
+Death toll in Japan ' s highest death rises to
+Death toll from last month's northern Japan quake rises to 37
+"The death toll from last month's magnitude-6.8 earthquake and its aftershocks in northern Japan rose to 37 when a 69-year-old man died of stress attributed to the disaster, police said Wednesday."
+-------------------------------------------------
+0.5185727544772025
+Japan ' s unemployment rate down 0 . 0 percent
+Japan's unemployment rate rises to 4.7 percent in October
+Japan's unemployment rate rose 0.1 percentage point to 4.7 percent in October, but the government said Tuesday the labor market was still on the mend amid a gradual economic recovery.
+-------------------------------------------------
+0.5
+Authorities seize independent newspaper in Tajikistan
+Authorities confiscate independent Tajik newspaper edition
+Tajikistan authorities have confiscated the latest edition of an independent newspaper _ which is printed in neighboring Kyrgyzstan after officials closed its domestic printer's shop _ the editor said Thursday.
+-------------------------------------------------
+0.5
+Hong Kong leader rejects Hong Kong ' s referendum on
+Hong Kong leader rules out referendum on direct elections
+"Hong Kong leader Tung Chee-hwa on Monday rejected an opposition proposal for a referendum on whether direct elections should be introduced to choose the Chinese territory's leader and all of its lawmakers."
+-------------------------------------------------
+0.5
+Greek police arrest Greek immigrant for Greek immigrants
+Greek police seize antiquities, arrest Greek suspect
+Police seized dozens of illegally excavated antiquities and arrested a Greek man after raiding his business on a southern Greek island, police said Friday.
+-------------------------------------------------
+0.5
+Britain may send troops to Iraq to Iraq
+Hungary may send military instructors to Iraq
+Hungary may send military instructors to Iraq as part of a NATO program to train Iraqi security forces, Prime Minister Ferenc Gyurcsany said Tuesday.
+-------------------------------------------------
+0.49123845184678916
+Dollar down , gold up
+Dollar falls, gold mostly lower
+The U.S. dollar sank to another record low against the euro in European trading Wednesday morning. Gold prices were mostly lower.
+-------------------------------------------------
+0.44485411273156
+Report : India to build energy supply in Russia
+Report: India to invest in Russian oil, gas projects
+India will invest US$3 billion (euro2.3 billion) in developing oil and gas fields in Russia to build a partnership in the energy sector, a news report said Sunday.
+-------------------------------------------------
+0.4444909324090307
+U . S . urges top pressure on war crimes
+U.S. senators call for extradition of Serb war crimes suspects
+"Five U.S. senators urged top Serbia-Montenegro officials Wednesday to hand over fugitive war crimes suspects and speed up recovery in the country impoverished by the ruinous rule of former leader Slobodan Milosevic."
+-------------------------------------------------
+0.4444444444444444
+Bank of Amazon factory factory arrested in Indonesian raid
+Indonesian police raid ecstasy factory in Jakarta
+Police hunted the owner of an ecstasy factory Tuesday after seizing over 80,000 pills in Indonesia's biggest drug bust this year, an officer said.
+-------------------------------------------------
+0.4444444444444444
+President of Ecuador ' s government takes over military
+Brazil's vice president takes over Defense Ministry
+Vice President Jose Alencar took over the Defense Ministry Monday as the Brazilian government sought to ease tensions with the armed forces.
+-------------------------------------------------
+0.4444444444444444
+Passengers of passengers at Miami airport canceled by snow
+Thousands of passengers grounded during storm at Reno airport
+"Thousands of passengers were grounded during a snowstorm at Reno-Tahoe International Airport on its busiest weekend of the year."
+-------------------------------------------------
+0.43904930887522114
+Jones fired as manager manager
+Dave Jones fired as manager of relegated Wolves
+Wolves manager Dave Jones was dismissed Monday with the relegated club struggling near the bottom of former division one.
+-------------------------------------------------
+0.4294155960430205
+Three killed in gas explosion in Georgia
+Three die in gas pipeline accident in western Kazakhstan
+A gas pipeline ruptured, exploded and caught fire in western Kazakhstan, killing three workers and injuring three others, emergency officials said Tuesday.
+-------------------------------------------------
+0.42857142857142855
+URGENT Two cars injured in car accident
+Seventeen injured in Zagreb tram accident
+Two trams collided at a station Monday morning, slightly injuring 17 passengers and blocking traffic for an hour in an industrial suburb of Zagreb.
+-------------------------------------------------
+0.42857142857142855
+Fox ' s Fox offers to make more budget in bid for the future
+Mexico's Fox to ship 2005 budget back to Congress asking for modifications
+President Vicente Fox will ship the 2005 budget back to a hostile Congress and ask opposition parties that drastically overhauled his government's original proposal to approve a string of corrections to make the final version economically viable, a spokesman said Monday night.
+-------------------------------------------------
+0.42857142857142855
+Russian wins opening event of World Cup
+Demshenko wins World Cup singles
+Russia's Albert Demshenko won the men's singles in a World Cup luge meet Sunday to take the lead in the overall standings.
+-------------------------------------------------
+0.423240862445307
+Fire on fishing fire kills four
+Fire in Croatian shipyard kills four workers
+A fire that broke out Tuesday aboard a ship being repaired killed four workers in Croatia, police said.
+-------------------------------------------------
+0.40936537653899097
+Queen Elizabeth II ' s mother honored at funeral of
+Queen Elizabeth II leads service to remember UK's war dead
+Queen Elizabeth II laid a wreath of red poppies at the foot of the Cenotaph monument on Sunday in a somber service in honor of Britain's war dead.
+-------------------------------------------------
+0.40219202762138356
+German police find man believed to be shot in southern
+German police find body of man believed behind series of letter bombs in Bavaria
+"German police have found the burned body of a man they believe was behind a string of letter-bomb attacks in the southern state of Bavaria, and said Saturday he apparently killed himself as they closed in."
+-------------------------------------------------
+0.40219202762138356
+NATO troops ask U . S . military to support
+Six NATO allies refuse to help the U.S. train Iraqi officers
+At least six NATO allies are refusing to send military instructors to help the United States train Iraqi officers, another impediment in the Bush administration's drive for support for its effort to pacify Iraq.
+-------------------------------------------------
+0.40219202762138356
+Tamil Tamil rebel chief returns to Sri Lanka after talks
+Top Tamil rebel negotiator returns amid Norwegian efforts to revive Sri Lankan peace talks
+A top Tamil Tiger rebel negotiator returned to Sri Lanka on Tuesday amid new efforts by Norwegian peace brokers to revive stalled peace talks and prevent the island from sliding back to war.
+-------------------------------------------------
+0.40219202762138356
+"New York TV station rejects "" "" "" "" """
+"Fox Searchlight says New York station rejects its promotional spot for ""Kinsey"""
+"The New York television station WNET has rejected a promotion for ""Kinsey,"" a film that has triggered protests among some conservative groups, because it is too provocative, the station said on Friday."
+-------------------------------------------------
+0.4
+EU officials to meet for talks on Ivory Coast peace
+Senior African Union officials hold emergency consultations on Ivory Coast
+Senior African Union officials will meet Saturday for emergency talks on the conflict that has reignited in Ivory Coast, threatening to undermine efforts to restore peace in neighboring countries, officials said.
+-------------------------------------------------
+0.4
+Dutch diplomat calls for human rights to Ukraine in Kosovo
+Dutch EU Presidency calls for review of Ukraine elections
+The Netherlands called for a review of alleged irregularities in the recent disputed elections in Ukraine and will send a special envoy to the country to discuss the situation there, the European Union Presidency said Wednesday.
+-------------------------------------------------
+0.4
+Leading Bundesliga scorers in Bundesliga
+Bundesliga Leading Scorers
+Leading scorers in the Bundesliga after Saturday's 13th round matches:
+-------------------------------------------------
+0.38940039153570244
+China to cut energy power to electricity shortages
+China to control investment in power plants, despite shortages
+China will step up controls on investment in power plants, despite electricity shortages, to help ease pressure on coal supplies, state media reported Monday.
+-------------------------------------------------
+0.37908166232039586
+Japan , China to sign joint trade talks
+Japan, South Korea sign on for free trade talks with ASEAN
+"Japan and South Korea joined the rush to court Southeast Asia, agreeing Tuesday to launch free trade talks with the region's leaders hours after they clinched a momentous open-market deal with booming China."
+-------------------------------------------------
+0.375
+_UNK wins first singles of the world Cup
+Morozova wins Fed Cup Award of Excellence
+Olga Morozova won the Fed Cup Award of Excellence in honor of a career in which she became the first woman from the Soviet Union to compete in a Grand Slam singles final.
+-------------------------------------------------
+0.37151909989293497
+Official says official killed in oil spill
+Oil Ministry official killed by gunmen in Baghdad
+A senior Oil Ministry official was killed Wednesday by gunmen on his way to work, the ministry's spokesman said.
+-------------------------------------------------
+0.36193496721438384
+Bush urges Azerbaijan to settle talks with Azerbaijan and settle
+Bush urges resumed negotiations, no violence to settle Ukrainian impasse
+President George W. Bush urged a return to negotiations to settle the impasse over Ukraine's disputed election and asked all sides Tuesday to resolve the situation without violence.
+-------------------------------------------------
+0.36193496721438384
+Bush ' s king praises Bush ' s prime minister
+Bush gives Spain's king and queen the royal treatment
+"Spain's king brought President George W. Bush a message of goodwill Wednesday from Prime Minister Jose Luis Rodriguez Zapatero, whose vocal opposition to the Iraq war has chilled U.S.-Spanish relations."
+-------------------------------------------------
+0.36193496721438384
+Czech president says parliament should be ready to control law
+Hungarian president asks parliament to reconsider amendments to central bank law
+Hungary's president said Monday that parliament should reconsider changes made recently to the law regulating the central bank, which would increase the prime minister's influence over its decisions.
+-------------------------------------------------
+0.36193496721438384
+Rwanda says it is not to attack attack in Darfur
+UN: Rwanda threatening to attack Rwandan rebels in eastern Congo
+"Rwanda warned it will launch an attack ""very soon"" on Rwandan Hutu rebels sheltering in eastern Congo, the U.N. mission said Wednesday in an ominous development that raised fears of renewed central African conflict. A Rwandan official denied the allegations."
+-------------------------------------------------
+0.35946317129377725
+Journalist attacked in southern Russia
+Journalist attacked, three others threatened in southern Ukraine
+One newspaper journalist was attacked and three other threatened in southern Ukraine in the latest in a series of attacks on the media in this former Soviet republic, news reports said Thursday.
+-------------------------------------------------
+0.35826565528689464
+Report : Spain orders to be linked to Muslim bombings in Madrid
+Report: Spain to disperse Madrid bombing suspects to prevent Islamic radicals from recruiting behind bars
+The government has ordered most of the suspects jailed over the Madrid terror bombings to be dispersed in prisons around Spain as part of a plan to prevent Islamic radicals from recruiting behind bars, a newspaper said Monday.
+-------------------------------------------------
+0.354274914555761
+Kazakhstan approves 0000 budget
+Kazakhstan's parliament approves 2005 budget
+"Kazakhstan's parliament on Monday approved the oil-rich Central Asian nation's 2005 budget, sending the draft to President Nursultan Nazarbayev for his signature."
+-------------------------------------------------
+0.35270071870442254
+Colombian rebel chief says he ' s not the top of the
+Colombia's new army chief has taken the fight deep into rebel turf
+"Gen. Reinaldo Castellanos, Colombia's newly appointed army chief, is a battle-hardened commander who has begun to reverse years of military failures and poor intelligence work to inflict devastating blows on Marxist rebels deep in their own turf."
+-------------------------------------------------
+0.35227989855505343
+URGENT U . S . Troops raid Muslim militants ' s killing in raid on militants
+U.S. troops raid homes of officials of influential Sunni Muslim group, members say
+"U.S. troops Thursday raided the homes of two Sunni Muslim clerics who had been critical of the U.S.-led attack Fallujah, a Sunni organization said. U.S. officials said they were unaware of the raids."
+-------------------------------------------------
+0.3436446393954861
+Irish Prime Minister to announce new Northern Ireland
+Irish premier to discuss Northern Ireland proposals with moderate Catholic leader
+"Irish Prime Minister Bertie Ahern, who has been working closely with Britain to broker a new power-sharing agreement in Northern Ireland, planned to meet the north's leader of moderate Catholic opinion Monday in the next step towards selling the deal."
+-------------------------------------------------
+0.3436446393954861
+United Airlines ' s strike plan , strike
+United's unions face new hit to pay, pensions
+"United Airlines' plan to impose an additional $725 million (euro564 million) in labor cuts and eliminate traditional pension plans was assailed as ""disastrous"" Friday by its flight attendants union, which pledged to fight the company ""over every dime."""
+-------------------------------------------------
+0.33516002301781966
+Israeli foreign minister says Arafat is good , but Arafat
+"Arafat in ""very difficult"" and serious condition, Palestinian foreign minister says"
+"Yasser Arafat is in a ""very difficult and serious"" situation, the Palestinian foreign minister said Tuesday after he and other officials met their critically ill leader's doctors."
+-------------------------------------------------
+0.3333333333333333
+Honda to build dlrs 0 million in Japan ' s largest plant
+Japanese automaker Honda building second car factory in China's Guangzhou
+Honda Motor Co. is investing 28 billion yen (US$265 million; euro 205 million) to build its fourth factory in China, part of the Japanese automaker's plan to nearly double annual production capacity in the country by 2006.
+-------------------------------------------------
+0.3333333333333333
+Kenya ' s largest social servants strike on pay
+Albanian university professors on strike for pay rise
+Albanian university professors went on strike Wednesday seeking a pay rise and better working environment.
+-------------------------------------------------
+0.3333333333333333
+Ivory Coast accuses Ivory Coast of fighting of fighting
+Rebels accuse Ivory Coast government of preparing fresh offensive
+Rebels accused Ivory Coast's government Monday of preparing a fresh offensive against them in the north of the country.
+-------------------------------------------------
+0.3333333333333333
+Car bomb kills at least four people in Baghdad
+Car bomb hits city government offices north of Baghdad
+A car bomb exploded Thursday near the city government offices of a town north of Baghdad, killing three people, Iraqi police said
+-------------------------------------------------
+0.3333333333333333
+Oil attacks to kill four people in northern Iraq
+Four oil wells attacked in northern Iraq
+Saboteurs set fire Sunday to four oil wells in Iraq's northern fields, Iraqi oil official said.
+-------------------------------------------------
+0.332574151684021
+Report : North Korea reportedly reportedly reportedly detained at U . S .
+Report: North Korea calls reports on removal of Kim's portraits part of a U.S. plot
+North Korea is denying reports that portraits of leader Kim Jong Il have been removed from public places, calling the accounts a U.S. plot to overthrow his government, China's main state news agency reported Friday.
+-------------------------------------------------
+0.3309363384692233
+UCLA loses first of No . 0 seed
+Bell Challenge loses first seed, Karatantcheva beats Washington
+"The Bell Challenge lost its first seed of the US$170,000 event on Tuesday when qualifier Sesil Karatantcheva of Bulgaria beat No. 3 Mashona Washington of the United States 6-0, 6-2."
+-------------------------------------------------
+0.32928698165641584
+Malaysia ' s _UNK , Britain ' s _UNK ,
+Malaysia's Genting wades into Britain's gaming industry through alliance with Stanley Leisure
+Malaysian gaming company Genting Bhd. has won a foothold in the British gambling market through a casino joint venture with Britain's Stanley Leisure, analysts said Wednesday.
+-------------------------------------------------
+0.32928698165641584
+Car explodes in southwestern Afghan city of injuring one ,
+Car bomb explodes near top official's office in Pakistan city, one person injured
+A car bomb exploded Tuesday in the southwestern city of Quetta, injuring at least one person, police said.
+-------------------------------------------------
+0.3274923012311928
+U . N . nuclear agency says Iran has no need to be more to
+U.N. agency agrees how to police Iranian enrichment freeze _ but United States voices concern
+The U.N. nuclear agency agreed on ways to police Iran's suspension of some nuclear programs, but a U.S. official said Washington might still try to take the case to the Security Council.
+-------------------------------------------------
+0.3274923012311928
+Sudan orders two journalists to resign in wake of violence
+Sudan orders expulsion of two aid group directors for statements on Darfur
+Sudan on Monday ordered the expulsion of the country directors of two humanitarian organizations, saying they violated a law against interfering in domestic affairs with their statements to the press about renewed violence in Darfur.
+-------------------------------------------------
+0.3274923012311928
+Tokyo stocks mixed , but Tokyo stocks fall on Asian
+Tokyo and Hong Kong shares decline, other Asian markets close mixed
+Tokyo shares declined Thursday on concerns about Japan's economic outlook, while other Asian markets closed mixed.
+-------------------------------------------------
+0.3274923012311928
+Dutch police arrest suspected suspect suspected of Dutch extremist group
+Dutch police arrest eight suspected Islamic radicals in filmmaker's killing
+Dutch prosecutors said Wednesday police have arrested eight suspected Islamic radicals as part of investigations into the brutal killing of outspoken Dutch filmmaker Theo van Gogh.
+-------------------------------------------------
+0.32206169703226534
+Government denies bid to host Olympics bid
+Norwegian government refuses to back 2014 Winter Olympics bid
+The government on Friday refused to back a bid to host the 2014 Winter Olympics by the Arctic city of Tromsoe, saying it was too costly and too soon after the 1994 Lillehammer Games.
+-------------------------------------------------
+0.31845836025501745
+Iraqi official says attack in Iraq must be safe
+Iraqi official warns that instability in Iraq would push region into chaos
+"A senior Iraqi official warned Tuesday that instability in Iraq would plunge the entire region into ""endless chaos"" and called on neighboring countries to cooperate in establishing security."
+-------------------------------------------------
+0.30769230769230765
+Holocaust survivors to sue victims of former Croats , former Serb victims of
+Families of Srebrenica victims to sue government for compensation
+Families of the victims of the 1995 Srebrenica massacre will file a lawsuit requesting more than euro2 billion (US$2.6 billion) in compensation from the governments of the Serb part of Bosnia and Serbia and Montenegro, a representative of the victims said Friday.
+-------------------------------------------------
+0.30769230769230765
+German leaders approve plan to shore up the world ' s biggest economic
+Schroeder stops disputed plan to scrap united Germany's national day
+German leaders on Friday scrapped a proposal to create an extra working day by moving the national holiday marking German reunification, bowing to a swell of criticism that the government had lost respect for the nation's history.
+-------------------------------------------------
+0.3032653298563167
+Former defender banned for drug tests
+Mutu banned for seven months for positive drug test
+Former Chelsea striker Adrian Mutu was banned Thursday for seven months after testing positive for a recreational drug.
+-------------------------------------------------
+0.3032653298563167
+Kazakh president warns of political problems
+Kazakh president warns business elite against getting into politics
+"Kazakhstan's president warned the country's business elite Wednesday not to seek political influence and criticized them for stifling competition in the oil-rich nation."
+-------------------------------------------------
+0.3032653298563167
+Defense minister says Poland ' s new security will be
+New base in Diwaniyah safer for soldiers, Poland's deputy defense minister says
+Poland's deputy defense minister said Wednesday that a new base in Diwaniyah in Iraq will be safer than the current headquarters near the historic ruins of the ancient city of Babylon.
+-------------------------------------------------
+0.3
+OSCE official urges Ukraine to investigate Ukraine ' s election
+Slovakia calls on Ukrainian government to investigate possible election abuse
+Slovakia's Foreign Ministry on Tuesday expressed concern about the fairness of the presidential elections in Ukraine, calling on the Ukrainian government to investigate possible election abuse, the TASR news agency reported.
+-------------------------------------------------
+0.3
+Romania ' s coach coach hires former coach as coach
+Mutu offered job as assistant coach for Romania
+"Romania's coach Anghel Iordanescu has offered Adrian Mutu a job as assistant coach of the national team while the former Chelsea striker serves a seven-month ban for taking an illegal drug."
+-------------------------------------------------
+0.3
+Thailand ' s king urges end to end to southern
+Thai queen urges end to violence in Muslim south
+"Thailand's Queen Sirikit urged a peaceful end Tuesday to the bloodshed in the Muslim-dominated southern provinces."
+-------------------------------------------------
+0.3
+Chirac to hospital hospital where Arafat ' s health leader
+Chirac visits Arafat at hospital in France
+French President Jacques Chirac on Thursday went to the hospital where Palestinian leader Yasser Arafat was undergoing emergency treatment.
+-------------------------------------------------
+0.3
+Report : Madrid to sign signing of Brazilian striker Carlos
+Reports: Real Madrid to hold first option on Robinho
+Real Madrid is set to announce it has secured first option on the signing of young Brazilian forward Robinho from Santos, news reports said Tuesday.
+-------------------------------------------------
+0.3
+NASA to develop its space agency for help to help
+NASA to donate satellite data to aid endangered species
+While NASA is best known for putting a man on the moon, the U.S. space agency will now help keep plant and animal species on Earth.
+-------------------------------------------------
+0.3
+Bank ' s Insurance Bank Reports Big Profit in Profits
+Ireland's Anglo Irish Bank posts strong profits again
+"Anglo Irish Bank Corp. PLC posted strong full-year profits Wednesday and reinforced its reputation among stockbrokers as one of Europe's best-performing small banks."
+-------------------------------------------------
+0.3
+Iraqi prime minister urges countries to help Iraq , not
+Iraqi prime minister warns against troop pullout
+"Iraqi interim Prime Minister Ayad Allawi urged European countries with troops in Iraq not to pull out, warning that doing so would ""encourage terrorists"" and damage reconstruction efforts."
+-------------------------------------------------
+0.3
+Australian navy says it ' s plans to build up
+Australian diamond miner plans to triple production
+Australia's Kimberley Diamond NL said Wednesday it plans to triple production and become one of the western world's top five diamond miners within three years.
+-------------------------------------------------
+0.3
+UEFA Cup : UEFA Cup team opens over UEFA Cup
+UEFA Cup: Sporting Lisbon 4, Panionios 1
+"Sporting Lisbon opened its UEFA Cup group D campaign with a 4-1 win Thursday over Greek visitor Panionios in a mostly one-sided encounter."
+-------------------------------------------------
+0.3
+Two injured , Costa ' s Costa Costa suffers injury
+Austria's Schett suffers torn ligaments
+Barbara Schett tore two ligaments in her right ankle Friday, dealing a blow to Austria's team ahead of the Fed Cup semifinals later this month.
+-------------------------------------------------
+0.3
+Three Russian satellite companies get to be used for the
+Studios take sides in fight for successor to the DVD
+Three top Hollywood studios are throwing their considerable weight behind one of two competing formats for the next generation of DVDs, citing in part the need to stem piracy.
+-------------------------------------------------
+0.3
+New Zealand ' s prime minister says Bush ' s
+New Zealand congratulates Bush for clear election win
+"New Zealand's Prime Minister Helen Clark on Thursday congratulated U.S. President George W. Bush on his re-election."
+-------------------------------------------------
+0.2963272882726872
+U . S . official says Ivory Coast killed by
+American killed in Ivory Coast was consultant to aid group, embassy says
+An American killed in an Ivory Coast government airstrike had been a consultant working with an aid group in the West African country, a U.S. official said Sunday.
+-------------------------------------------------
+0.2963272882726872
+Martin says Bush will not be to be up to
+Canada's Martin says he will talk trade, multilateralism with Bush
+"Prime Minister Paul Martin said Wednesday his first request to the newly re-elected President George W. Bush will be to deal with trade irritants and establish a ""new multilateralism"" on international problems."
+-------------------------------------------------
+0.2963272882726872
+_UNK , _UNK for Ireland ' s first test test
+Springboks makes one change for Ireland, who will debut O'Connor
+"South Africa recalled fit-again flanker AJ Venter and Ireland unveiled new flanker Jonny O'Connor for their rugby union test at Lansdowne Road on Saturday."
+-------------------------------------------------
